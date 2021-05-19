@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://programatorko.github.io/fullstackmastery/about/</loc>
+    <loc>https://fullstackmastery.org/about/</loc>
     <lastmod>2019-01-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://programatorko.github.io/fullstackmastery/</loc>
+    <loc>https://fullstackmastery.org/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://programatorko.github.io/fullstackmastery/posts/hello/</loc>
+    <loc>https://fullstackmastery.org/posts/hello/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://programatorko.github.io/fullstackmastery/posts/</loc>
+    <loc>https://fullstackmastery.org/posts/</loc>
     <lastmod>1986-09-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://programatorko.github.io/fullstackmastery/archive/</loc>
+    <loc>https://fullstackmastery.org/archive/</loc>
   </url><url>
-    <loc>https://programatorko.github.io/fullstackmastery/categories/</loc>
+    <loc>https://fullstackmastery.org/categories/</loc>
   </url><url>
-    <loc>https://programatorko.github.io/fullstackmastery/tags/</loc>
+    <loc>https://fullstackmastery.org/tags/</loc>
   </url>
 </urlset>
