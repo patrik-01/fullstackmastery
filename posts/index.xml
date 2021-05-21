@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hello Friend</title>
+    <title>Posts on Full stack mastery</title>
     
     
     
     <link>https://fullstackmastery.org/posts/</link>
-    <description>Recent content in Posts on Hello Friend</description>
+    <description>Recent content in Posts on Full stack mastery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2021 full stack mastery</copyright>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fullstackmastery.org/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello Friend 2</title>
-      <link>https://fullstackmastery.org/posts/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
+      <title>Single vs double quotes in ruby</title>
+      <link>https://fullstackmastery.org/posts/single_vs_double_quotes_in_ruby/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fullstackmastery.org/posts/hello/</guid>
+      <guid>https://fullstackmastery.org/posts/single_vs_double_quotes_in_ruby/</guid>
       <description>
         
           
@@ -28,7 +29,7 @@
         
         
         
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          Difference between using single-quotes and double-quotes
           
         
         </description>

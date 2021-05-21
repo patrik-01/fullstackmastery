@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend</title>
+    <title>Full stack mastery</title>
     
     
     
     <link>https://fullstackmastery.org/</link>
-    <description>Recent content on Hello Friend</description>
+    <description>Recent content on Full stack mastery</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
+    <copyright>© 2021 full stack mastery</copyright>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fullstackmastery.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Single vs double quotes in ruby</title>
+      <link>https://fullstackmastery.org/posts/single_vs_double_quotes_in_ruby/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fullstackmastery.org/posts/single_vs_double_quotes_in_ruby/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Difference between using single-quotes and double-quotes
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>About</title>
@@ -28,29 +49,10 @@
         
         
         
-          Hi there My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Hello Friend 2</title>
-      <link>https://fullstackmastery.org/posts/hello/</link>
-      <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
-      
-      <guid>https://fullstackmastery.org/posts/hello/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &#34;Hello, friend?&#34; That&#39;s lame. Maybe I should give you a name?
+          Hi I am software engineer based in central Europe on the journey for full stack mastery. On this site you can find my thoughts and observations mostly about programing. I am not fluent in english but I am trying to improve it by writing this page and reading books.
+My stack:
+ ruby (+ rails) javascript css html docker postgres git  My equipment:
+ macbook air 2020 (M1) Keychron K2 (Hot-swappable) dell UltraSharp U2412M 24&amp;quot; audio-technica ATH-M50x  I would like to thank open source community especially creators of hugo and this beautifle theme.
           
         
         </description>
